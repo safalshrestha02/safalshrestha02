@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safalshrestha02&label=Profile%20views&color=0e75b6&style=flat" alt="safalshrestha02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safalshrestha02" alt="safalshrestha02" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shresthasafal70" target="blank"><img src="https://img.shields.io/twitter/follow/shresthasafal70?logo=twitter&style=for-the-badge" alt="shresthasafal70" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs and TypeScript**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safalshrestha02&show_icons=true&locale=en&layout=compact" alt="safalshrestha02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safalshrestha02&show_icons=true&locale=en" alt="safalshrestha02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safalshrestha02&theme=default" alt="safalshrestha02" /></p>
